@@ -2,6 +2,9 @@
 
 This project opens up monkeytype type racing test on microsoft edge and auto types the prompt. The interval of which the prompt is typed out can be changed from 0.01 to any other value, however, values less than this cause a WPM of 'Infinite' 
 
+https://github.com/user-attachments/assets/f645040d-9f93-4a88-be2a-a4324647073f
+
+![image](https://github.com/user-attachments/assets/a4514580-b0f3-4c15-8cb8-2c374a8f8057)
 
 ## Installation
 
